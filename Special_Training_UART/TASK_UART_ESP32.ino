@@ -1,6 +1,6 @@
 void setup() {
-  Serial.begin(115200);
-  Serial1.begin(115200);
+  // TASK: Define and initialize Serials in here. Remember there is a Serial
+  // connected to TX
 }
 void loop() {
     // TASK: Insert code that will send a char to Arduino Uno using UART
