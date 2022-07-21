@@ -104,7 +104,7 @@ myPort=new Serial(this, "/dev/tty.ESP32test"
 ```
 ### ***Change "/dev/tty.ESP32test" to whatever your port from Step 1.***
 
-## 4. Open the Serial Monitor of ESP32 in Arduino. Then, run processing. While processing is on, press 'w' or 's'. Letters should show up in the Serial Monitor of ESP32 in arduino. (See video below)
+## 4. Open the Serial Monitor of ESP32 in Arduino. Then, run processing. While processing is on, press 'w' or 's'. Letters should show up in the Serial Monitor of ESP32 in arduino. (See video below). If you're receiving letters from processing, repeat the steps again, but now now try using the code by Nick (one that has LED and Button). Make sure to change the processing code on Step 3 (also the one by Nick). See https://github.com/nturner0/HAcK-Bluetooth-Training
 
 
 https://user-images.githubusercontent.com/70046331/180144227-a49f8b15-8553-4e80-acd3-c8b412c56ddc.mp4
