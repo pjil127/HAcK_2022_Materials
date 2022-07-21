@@ -111,7 +111,6 @@ https://user-images.githubusercontent.com/70046331/180144227-a49f8b15-8553-4e80-
 
 
 <br>
-<br>
 
 ## Still not working?
 ### 1. Try changing the port. Go to step 1 again. If you tried "/dev/cu.", try the one that begins with "/dev/tty." or vice versa.
