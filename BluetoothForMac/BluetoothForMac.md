@@ -106,6 +106,11 @@ myPort=new Serial(this, "/dev/tty.ESP32test"
 
 ## 4. Open the Serial Monitor of ESP32 in Arduino. Then, run processing. While processing is on, press 'w' or 's'. Letters should show up in the Serial Monitor of ESP32 in arduino. (See video below)
 
+
+https://user-images.githubusercontent.com/70046331/180144227-a49f8b15-8553-4e80-acd3-c8b412c56ddc.mp4
+
+
+<br>
 <br>
 
 ## Still not working?
